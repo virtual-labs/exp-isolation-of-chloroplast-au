@@ -7,7 +7,10 @@ Chloroplasts like mitochondria are evolved by endosymbiosis. Both chloroplasts a
 ### Structure of Chloroplast
  
 Chloroplasts are found in the mesophyll cells of the leaves. The chloroplast is divided into three compartments bounded by three membrane systems: an intermembrane space between the inner and outer membranes, the stroma and the thylakoid lumen.  Chloroplasts have a double membrane structure called the chloroplast envelop.  The chloroplast envelop has an inner membrane and an outer membrane. A third membrane system called  the thylakoid membrane  surrounds the thylakoids in the stroma.  
- 
+
+<img src="images/1.jpg" title="" />
+&nbsp;
+
 Chloroplasts are located inside the thylakoid membranes.  Thylakoid membrane consists of the thylakoids which are flattened discs arranged on top of the other and they are termed as grana.  The thylakoids are located inside the stroma. Photosynthesis takes place in the thylakoid membranes.The chlorophyll molecules absorb light in the form of photons and this leads to the emission of electrons by the chlorophyll molecules. This drives the hydrogen ions across the membrane surrounding the thylakoid stack. This leads to the formation of an electrochemical gradient which drives the production of ATP. 
  
 
