@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "	1) Chlorophyll is present in _________",
+      "question": "1) Chlorophyll is present in _________",
       "answers": 
       {
         "a": "Grana",
@@ -29,7 +29,7 @@
 
 
 {
-      "question": "	3) Chloroplast and mitochondria have their own genome:",
+      "question": "3) Chloroplast and mitochondria have their own genome:",
       "answers": 
   {
         "a": "True",
@@ -42,7 +42,7 @@
 
 
 {
-      "question": "	4) Light dependent reaction takes place in _________.",
+      "question": "4) Light dependent reaction takes place in _________.",
       "answers": 
   {
         "a": "Chloroplast inner membrane",
