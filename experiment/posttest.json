@@ -2,38 +2,61 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      "question": "1. The size of the chloroplast in plants varies from________.",
+      "answers": 
+      {
+        "a": "5-10 Ã‚Âµm",
+        "b": "10-15 Ã‚Âµm",
+        "c": "15-20 Ã‚Âµm",
+        "d": "20-25 Ã‚Âµm"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+
+{
+      "question": "2. In chloroplast isolation method, the cell wall is broken mechanically using a __________.",
+      "answers": 
+  {
+        "a": "Sonicator",
+        "b": "French press",
+        "c": "Blender",
+        "d": "Bead beating"
+  },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+},
+
+
+{
+      "question": "Light independent reaction takes place in _______.",
+      "answers": 
+  {
+        "a": "Stroma",
+        "b": "Thylakoid membrane",
+        "c": "Chloroplast inner membrane",
+        "d": "Chloroplast outer membrane"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "Chloroplast has stacks of ______ called ______.",
+      "answers": 
+  {
+        "a": "Grana, Chlorophyll",
+        "b": "Grana, Thylakoids",
+        "c": "Chlorophyll, Grana",
+        "d": "Thylakoids, Grana"
+  },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+}
   ]
 }
