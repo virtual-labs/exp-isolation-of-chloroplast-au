@@ -1,0 +1,62 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The size of the chloroplast in plants varies from________.",
+      "answers": 
+      {
+        "a": "5-10 Ã‚Âµm",
+        "b": "10-15 Ã‚Âµm",
+        "c": "15-20 Ã‚Âµm",
+        "d": "20-25 Ã‚Âµm"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+{
+      "question": "2. In chloroplast isolation method, the cell wall is broken mechanically using a __________.",
+      "answers": 
+  {
+        "a": "Sonicator",
+        "b": "French press",
+        "c": "Blender",
+        "d": "Bead beating"
+  },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "Light independent reaction takes place in _______.",
+      "answers": 
+  {
+        "a": "Stroma",
+        "b": "Thylakoid membrane",
+        "c": "Chloroplast inner membrane",
+        "d": "Chloroplast outer membrane"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "Chloroplast has stacks of ______ called ______.",
+      "answers": 
+  {
+        "a": "Grana, Chlorophyll",
+        "b": "Grana, Thylakoids",
+        "c": "Chlorophyll, Grana",
+        "d": "Thylakoids, Grana"
+  },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+}
+  ]
+}

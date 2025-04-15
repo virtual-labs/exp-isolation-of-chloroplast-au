@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) Chlorophyll is present in _________",
+      "answers": 
+      {
+        "a": "Grana",
+        "b": "Thylakoid membranes",
+        "c": "Stroma",
+        "d": "Outer membrane of chloroplast."
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+{
+      "question": "2) Green Plants contain only chlorophyll as their pigments:",
+      "answers": 
+  {
+        "a": "True",
+        "b": "False"
+  },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "3) Chloroplast and mitochondria have their own genome:",
+      "answers": 
+  {
+        "a": "True",
+        "b": "False"
+  },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+},
+
+
+{
+      "question": "4) Light dependent reaction takes place in _________.",
+      "answers": 
+  {
+        "a": "Chloroplast inner membrane",
+        "b": "Thylakoid membranes",
+        "c": "Stroma",
+        "d": "Outer membrane of chloroplast."
+  },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+}
+  ]
+}
